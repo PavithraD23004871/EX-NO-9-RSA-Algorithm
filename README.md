@@ -1,6 +1,6 @@
 # EX-NO-9-RSA-Algorithm
-## NAME: REVATHI K
-## REG NO: 212223040169
+## NAME: Pavithra D
+## REG NO: 212223032146
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
 
@@ -141,4 +141,4 @@ int main() {
 
 
 ## Result:
- The program is executed successfully.
+ The program is executed successfully
